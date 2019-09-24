@@ -19,5 +19,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 
 plugins: ['jekyll-twitter-plugin']
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 google_analytics: UA-141565153-1 # your Google Analytics tracking ID here
