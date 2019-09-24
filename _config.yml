@@ -1,9 +1,9 @@
 title: Harsh Singhvi # your name (or website title) here
 logo: "/images/6CB15605-E17B-435C-98A9-66451678E61C.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+  <p>
   <br><br>
-  <a href="https://instagram.com/insomniac_coder?igshid=1m2jur72ucxhf"><img src="/images/logohs.png.png" alt ="LOGO" ></a>
+  <a href="https://instagram.com/insomniac_coder?igshid=1m2jur72ucxhf"><img src="/images/6CB15605-E17B-435C-98A9-66451678E61C.jpeg" alt ="LOGO" style="float:right;width:42px;height:42px;" ></a>
   <br><br>
   <a href="https://twitter.com/harshsinghvi29?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @harshsinghvi29</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <br><br>
@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://instagram.com/insomniac_coder?igshid=1m2jur72ucxhf">View My Instagram Profile</a> 
     <a href="https://drive.google.com/file/d/113fKyscCjzslVrqtyBUsM-87e9hajSuM/view?usp=drivesdk">MDM</a> 
 
-
+  </p>
 
 plugins: ['jekyll-twitter-plugin']
 theme: jekyll-theme-midnight
